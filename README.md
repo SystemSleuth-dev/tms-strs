@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/zeloww">
+<a href="https://github.com/tms-strs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tms-strs&show_icons=true&hide_border=true&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tms-strs&show_icons=true&hide_border=true&theme=tokyonight"/>
 </a>
