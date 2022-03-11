@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+<a href="https://github.com/zeloww">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tms-strs&show_icons=true&hide_border=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tms_strs&show_icons=true&hide_border=true&theme=tokyonight"/>
+</a>
+  
+</p>
 
-<!--
-**tms-strs/tms-strs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tms_strs&color=blue" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
